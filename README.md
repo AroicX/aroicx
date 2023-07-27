@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- I'm a Software Engineer from Nigeria 🇳🇬 with a strong passion for Tech, JavaScript and the developer community.
+- I'm a Software Engineer from Nigeria 🇳🇬 with a strong passion for Tech, GoLang, JavaScript and the developer community at large.
 
 
 - ⚡️ What I do:
